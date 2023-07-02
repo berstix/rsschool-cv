@@ -93,3 +93,4 @@ function f19() {
 * A1 Survival Level — Beginner и Elementary, studying english by duoligo
 * Russian - Native
 ---
+<a href="https://rs.school/"><img src="rs-logo.svg" width="250" alt="rs.school"></a>
