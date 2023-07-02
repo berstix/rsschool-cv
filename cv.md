@@ -80,7 +80,6 @@ function f19() {
                                     
                 document.querySelector('.b-19').onclick = f19;
 ```
-
 ## Courses:
 
 * Professional development course MBEU web design and development two months, 2020
